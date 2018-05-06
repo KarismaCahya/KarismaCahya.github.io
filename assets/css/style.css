@@ -28,3 +28,16 @@
 }
 
 /* end navbar */
+
+/*jumbotron */
+.jumbotron {
+    background-color: #9bafad;
+    color:#fff;
+}
+/*end jumbotron*/
+
+/*colomn*/
+.card{
+    width: 18rem;
+    margin: auto;
+}
